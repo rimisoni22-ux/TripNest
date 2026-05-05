@@ -2,7 +2,8 @@
 
 A full-stack Airbnb-style web application where users can explore homes, view details, add favourites, and hosts can manage property listings.
 
----
+--- 
+LIVE DEMO =https://trip-nest-amber.vercel.app/
 
 ## 🚀 Features
 
